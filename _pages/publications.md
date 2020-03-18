@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also browse my [Google Scholar Profile](https://scholar.google.com.hk/citations?user=Dnq-8jEAAAAJ&hl=zh-CN).
+You can also browse my [Researchgate Profile](https://www.researchgate.net/profile/Yulin_Ma5).
 
 
 <style>
